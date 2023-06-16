@@ -1,6 +1,6 @@
 # C++ Full Course
 
-Chapter 2: Diving in
+## Chapter 2: Diving in
 Your First C++ Program
 Comments
 Errors and Warnings
@@ -8,7 +8,7 @@ Statements and Functions
 Data input and output
 C++ Program Execution Model
 C++ core language Vs Standard library Vs STL
-Chapter 3: Variables and data types
+## Chapter 3: Variables and data types
 Variables and data types Introduction
 Number Systems
 Integer types : Decimals and Integers
@@ -19,7 +19,7 @@ Characters And Text
 Auto
 Assignments
 Variables and data types summary
-Chapter 4: Operations on Data
+## Chapter 4: Operations on Data
 Introduction on Data operations
 Basic Operations
 Precedence and Associativity
@@ -32,25 +32,25 @@ Numeric Limits
 Math Functions
 Weird Integral Types
 Data Operations Summary
-Chapter 5: Flow Control
+## Chapter 5: Flow Control
 Flow Control Introduction
 If Statements
 Else If
 Switch
 Ternary Operators
 Flow Control Summary
-Chapter 6: Loops
+## Chapter 6: Loops
 Loops Introduction
 For Loop
 While Loop
 Do While Loop
-Chapter 7: Arrays
+## Chapter 7: Arrays
 Introduction to Arrays
 Declaring and using arrays
 Size of an array
 Arrays of characters
 Array Bounds
-Chapter 8: Pointers
+## Chapter 8: Pointers
 Introduction to Pointers
 Declaring and using pointers
 Pointer to char
@@ -61,19 +61,19 @@ When new Fails
 Null Pointer Safety
 Memory Leaks
 Dynamically allocated arrays
-Chapter 9: References
+## Chapter 9: References
 Introduction to References
 Declaring and using references
 Comparing pointers and references
 References and const
-Chapter 10: Character Manipulation and Strings
+## Chapter 10: Character Manipulation and Strings
 Introduction to Strings
 Character Manipulation
 C-string manipulation
 C-String concatenation and copy
 Introducing std::string
 Declaring and using std::string
-Chapter 11: Functions
+## Chapter 11: Functions
 The One Definition Rule
 First Hand on C++ Functions
 Function Declaration and Function Definitions
@@ -81,33 +81,33 @@ Multiple Files - Compilation Model Revisited
 Pass by value
 Pass by pointer
 Pass by reference
-Chapter 12: Getting Things out of functions
+## Chapter 12: Getting Things out of functions
 Introduction to getting things out of functions
 Input and output parameters
 Returning from functions by value
-Chapter 13: Function Overloading
+## Chapter 13: Function Overloading
 Function Overloading Introduction
 Overloading with different parameters
-Chapter 14: Lambda functions
+## Chapter 14: Lambda functions
 Introduction to Lambda Functions
 Declaring and using lambda functions
 Capture lists
 Capture all in context
 Summary
-Chapter 15: Function Templates
+##Chapter 15: Function Templates
 Introduction to function templates
 Trying out function templates
 Template type deduction and explicit arguments
 Template parameters by reference
 Template specialization
-Chapter 16: C++20 Concepts Crash course
+##Chapter 16: C++20 Concepts Crash course
 Introduction to C++20 Concepts
 Using C++20 Concepts
 Building your own C++20 Concepts
 Zooming in on the requires clause
 Combining C++20 Concepts
 C++20 Concepts and auto
-Chapter 17: Classes
+##Chapter 17: Classes
 Introduction to classes
 Your First Class
 C++ Constructors
@@ -120,7 +120,7 @@ Order of Constructor Destructor Calls
 The this Pointer
 struct
 Size of objects
-Chapter 18: Inheritance
+## Chapter 18: Inheritance
 Introduction to Inheritance
 First try on Inheritance
 Protected members
@@ -134,7 +134,7 @@ Copy Constructors with Inheritance
 Inheriting Base Constructors
 Inheritance and Destructors
 Reused Symbols in Inheritance
-Chapter 19: Polymorphism
+##Chapter 19: Polymorphism
 Introduction to Polymorphism
 Static Binding with Inheritance
 Dynamic binding with virtual functions
